@@ -9,7 +9,7 @@ let bValues = [];
 let cells = [];
 
 function preload(){
-  img = loadImage("faces.jpg");
+  img = loadImage("test1.jpg");
 }
 
 function setup() {
